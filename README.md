@@ -11,4 +11,5 @@ were later implemented as well.
 This project was made with my team, all members with equal contribution:
   - Zeina Mershad
   - Raghad Hmede
+
 We were supervised by the course instructor Dr. Khaleel Mershad (Fall 2023)
